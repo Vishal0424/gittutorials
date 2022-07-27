@@ -1,1 +1,2 @@
-this is ReadMe file of git tutorial
+This is ReadMe file of git tutorial
+I am learning git...
